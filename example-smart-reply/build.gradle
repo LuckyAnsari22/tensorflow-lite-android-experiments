@@ -54,7 +54,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    implementation files("$projectDir/libs/smartreply_runtime_aar.aar")
+   // implementation files("$projectDir/libs/smartreply_runtime_aar.aar")
 
     implementation "com.google.guava:guava:${project.ext.guavaVersion}"
 

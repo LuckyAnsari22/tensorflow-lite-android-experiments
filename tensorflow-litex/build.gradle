@@ -64,4 +64,4 @@ dependencies {
     testImplementation "androidx.room:room-testing:${ROOM_VERSION}"
 }
 
-apply from: '../buildscripts/maven_push.gradle'
+//apply from: '../buildscripts/maven_push.gradle'
